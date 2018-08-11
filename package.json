@@ -1,0 +1,19 @@
+{
+  "name": "es6modeules-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reload -b -d ./src -w ./src -s index.html",
+    "tsc": "tsc"
+  },
+  "author": "Michell Cronberg",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.3.4",
+    "reload": "^2.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

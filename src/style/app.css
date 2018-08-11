@@ -1,0 +1,32 @@
+#tblComputer td {
+    padding: 5px;
+}
+
+#tdRAM td {
+    padding: 1px;
+    width: 200px;
+}
+
+.carry {
+    font-size: 0.5em;
+}
+
+table {
+    border-spacing: 0;
+}
+
+table td.bborder {
+    border-bottom: 1px solid black;
+}
+
+table td.tborder {
+    border-top: 1px solid black;
+}
+
+.qres {
+    font-weight: bold;
+}
+
+.spacer {
+    width: 10px;
+}
